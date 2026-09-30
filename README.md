@@ -6,7 +6,7 @@ Running Claude Code as a remote-control server
 
 Carl and Rocky show how you can set up Claude Code on your workstation so you can create and connect to multiple sessions remotely from your phone or Claude Desktop.
 
-📺 YouTube video: 
+📺 YouTube video: https://youtu.be/l5sYF3G0st4
 
 🏠 Code it with AI Home Page: [https://codeitwithai.com](https://codeitwithai.com/)
 
